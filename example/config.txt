@@ -1,0 +1,2 @@
+Prefix plugins/Jaccard/example/
+Plugin Jaccard inputfile abundN.csv outputfile abundN.jaccard.csv
